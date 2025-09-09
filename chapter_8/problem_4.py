@@ -1,0 +1,1 @@
+# omited code on ndcn.py

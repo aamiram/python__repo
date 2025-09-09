@@ -1,0 +1,18 @@
+marks = []
+f1 = int(input("enter marks 1 marks:"))
+marks.append(f1)
+f2 = int(input("enter marks 2 marks:"))
+marks.append(f2)
+f3 = int(input("enter marks 3 marks:"))
+marks.append(f3)
+f4 = int(input("enter marks 4 marks:"))
+marks.append(f4)
+f5 = int(input("enter marks 5 marks:"))
+marks.append(f5)
+f6= int(input("enter  marks  6 marks:"))
+marks.append(f6)
+f7 = int(input("enter marks 7 marks:"))
+marks.append(f7)
+
+marks.sort()
+print(marks)

@@ -1,0 +1,7 @@
+2025-09-06 21:30:15 | INFO    | User 'Aamir' ran python script successfully
+2025-09-06 21:31:05 | WARNING | User 'Noman' attempted to run  code with syntax error
+2025-09-06 21:32:44 | INFO    |  file 'data_analysis.py' executed by User 'Aamir'
+2025-09-06 21:33:12 | ERROR   |  database module failed to connect (timeout)
+2025-09-06 21:34:22 | INFO    |  logger initialized for User 'Admin'
+2025-09-06 21:35:01 | WARNING |  script 'backup.py' encountered low disk space
+2025-09-06 21:36:20 | INFO    |  process completed backup successfully
